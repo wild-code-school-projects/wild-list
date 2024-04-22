@@ -16,3 +16,6 @@ Validation Criteria:
     Confirm that the first string is removed using RemoveAt.
     Verify that the third string is removed using Remove.
     Ensure that the second string is modified.
+
+
+![image](https://image.noelshack.com/fichiers/2024/17/1/1713799205-screenshot-2024-04-22-171944.png)
